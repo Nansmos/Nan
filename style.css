@@ -1,0 +1,40 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.calll{
+    margin-top: 10px;
+}
+.lek1{
+    outline: none;
+    color: goldenrod;
+}
+.lek2{
+    outline: none;
+    color:rebeccapurple
+}
+.calll{
+    border: 1px solid black;
+    height: 20em;
+    padding: 0;
+    margin: 0;
+}
+.formall{
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+button{
+    cursor: pointer;
+    outline: none;
+    border:solid black;
+}
+button:hover{
+    background-color: rgb(51, 255, 0);
+    color: rgb(238, 28, 0);
+}
